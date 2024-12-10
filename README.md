@@ -5,21 +5,26 @@ la.
 
 
 2. Obre Firefox i busca i indica la memòria lliure del sistema.
+![image](https://github.com/user-attachments/assets/6248f60f-b458-4383-91fc-7e5f0bddfadd)
 
 
 3. Amb la comanda mpstat indica quanta capacitat de CPU està lliure i
 quantes CPUs té el sistema.
+![image](https://github.com/user-attachments/assets/48934963-d003-49ea-b69d-c9b3ebf57f25)
 
 
 4. Obre Firefox i utilitza la comanda top i fes una captura, sobre la captura fes
 el següent:
+![image](https://github.com/user-attachments/assets/4dc91609-675a-4906-8447-56edd5f322f1)
 
 •Indica si el sistema està més carregat ara que fa cinc minuts o menys
 carregat, justifica per què?
+Havia d’instal·lar una nova comanda i estic executant el Firefox, i això ocupa espai, així que sí, està respectivament més carregat que fa 5 minuts.
 
 •Busca el PID del procés Firefox.
+![image](https://github.com/user-attachments/assets/503977e0-7cf7-4cbb-adac-9bf4af80bb4d)
 
-•Mata el procés firefox des de top.
+•
 
 •Indica quanta memòria d'intercanvi està utilitzant el sistema.
 
@@ -30,7 +35,7 @@ aquest moment.
 programa.
 
 
-5. Amb la comanda htop mostra el percentatge de la memòria utilitzada.
+5. Amb la comanda htop mostra el percentatge de la memòria utilitzada.º
 
 
 
